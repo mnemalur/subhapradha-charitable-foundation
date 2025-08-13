@@ -2,6 +2,7 @@
   "name": "subhapradha-charitable-foundation",
   "version": "0.1.0",
   "private": true,
+  "description": "Subhapradha Charitable Organization (SCO) - Professional website for charitable initiatives",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
