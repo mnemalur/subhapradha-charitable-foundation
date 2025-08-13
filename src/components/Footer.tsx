@@ -86,7 +86,7 @@ export default function Footer() {
             <div className="space-y-2 text-gray-300">
               <p>Email: info@sco.org</p>
               <p>Phone: +1 (555) 123-4567</p>
-              <p>Address: 123 Charity Street<br />Community City, CC 12345</p>
+              <p>Address: 928 Robin Road<br />Hillsborough, NJ 08844</p>
             </div>
           </div>
         </div>
