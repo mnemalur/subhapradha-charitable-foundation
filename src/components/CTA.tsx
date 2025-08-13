@@ -13,10 +13,10 @@ export default function CTA() {
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
             Join Us in Making a Difference
           </h2>
-          <p className="text-xl md:text-2xl text-green-100 mb-8 max-w-3xl mx-auto">
-            Your generous donation helps us continue our mission of serving vulnerable communities. 
-            Every contribution, no matter the size, creates real and lasting positive change in someone's life.
-          </p>
+                   <p className="text-xl md:text-2xl text-green-100 mb-8 max-w-3xl mx-auto">
+           Your generous donation helps us continue our mission of serving vulnerable communities.
+           Every contribution, no matter the size, creates real and lasting positive change in someone&apos;s life.
+         </p>
           
           <div className="flex flex-col sm:flex-row gap-6 justify-center items-center mb-12">
             <div className="bg-white/10 backdrop-blur-sm rounded-lg p-6 border border-white/20">
@@ -29,7 +29,7 @@ export default function CTA() {
             </div>
             <div className="bg-white/10 backdrop-blur-sm rounded-lg p-6 border border-white/20">
               <div className="text-3xl font-bold text-yellow-300 mb-2">$100</div>
-              <div className="text-green-100">Supports women's training program</div>
+              <div className="text-green-100">Supports women&apos;s training program</div>
             </div>
           </div>
 

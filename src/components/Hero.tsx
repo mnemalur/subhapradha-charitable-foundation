@@ -66,7 +66,7 @@ export default function Hero() {
             </div>
             <div className="mt-6 text-center">
               <p className="text-green-100 text-sm">
-                Every donation makes a real difference in someone's life
+                Every donation makes a real difference in someone&apos;s life
               </p>
             </div>
           </div>
