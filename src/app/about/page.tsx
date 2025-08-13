@@ -159,26 +159,26 @@ export default function AboutPage() {
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            <div className="text-center">
-              <div className="w-32 h-32 bg-gradient-to-r from-green-600 to-blue-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                <span className="text-white text-3xl font-bold">MN</span>
-              </div>
-              <h3 className="text-xl font-semibold text-gray-900 mb-2">Murthy Nemaluri</h3>
-              <p className="text-green-600 font-semibold mb-2">Founder & Executive Director</p>
-              <p className="text-gray-600">
-                Leading SCO with 15+ years of experience in community development and charitable initiatives.
-              </p>
-            </div>
-            <div className="text-center">
-              <div className="w-32 h-32 bg-gradient-to-r from-blue-600 to-green-600 rounded-full flex items-center justify-center mx-auto mb-4">
-                <span className="text-white text-3xl font-bold">SP</span>
-              </div>
-              <h3 className="text-xl font-semibold text-gray-900 mb-2">Sarah Patel</h3>
-              <p className="text-green-600 font-semibold mb-2">Program Director</p>
-              <p className="text-gray-600">
-                Overseeing all educational and healthcare programs with expertise in sustainable development.
-              </p>
-            </div>
+                               <div className="text-center">
+                     <div className="w-32 h-32 bg-gradient-to-r from-green-600 to-blue-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                       <span className="text-white text-3xl font-bold">KP</span>
+                     </div>
+                     <h3 className="text-xl font-semibold text-gray-900 mb-2">Krishna Prayaga</h3>
+                     <p className="text-green-600 font-semibold mb-2">Founder & Executive Director</p>
+                     <p className="text-gray-600">
+                       Leading SCO with 15+ years of experience in community development and charitable initiatives.
+                     </p>
+                   </div>
+                               <div className="text-center">
+                     <div className="w-32 h-32 bg-gradient-to-r from-blue-600 to-green-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                       <span className="text-white text-3xl font-bold">SP</span>
+                     </div>
+                     <h3 className="text-xl font-semibold text-gray-900 mb-2">Surya Prayaga</h3>
+                     <p className="text-green-600 font-semibold mb-2">Program Director</p>
+                     <p className="text-gray-600">
+                       Overseeing all educational and healthcare programs with expertise in sustainable development.
+                     </p>
+                   </div>
             <div className="text-center">
               <div className="w-32 h-32 bg-gradient-to-r from-yellow-500 to-green-600 rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-white text-3xl font-bold">RK</span>

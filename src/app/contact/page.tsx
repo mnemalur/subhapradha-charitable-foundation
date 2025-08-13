@@ -175,15 +175,14 @@ export default function ContactPage() {
                 <div className="bg-white rounded-lg p-6 shadow-sm border border-gray-200">
                   <h3 className="text-xl font-semibold text-gray-900 mb-4">Office Locations</h3>
                   <div className="space-y-4">
-                    <div>
-                      <h4 className="font-medium text-gray-900 mb-2">Headquarters</h4>
-                      <p className="text-gray-600 text-sm">
-                        123 Charity Street<br />
-                        Suite 456<br />
-                        New York, NY 10001<br />
-                        United States
-                      </p>
-                    </div>
+                                         <div>
+                       <h4 className="font-medium text-gray-900 mb-2">Headquarters</h4>
+                       <p className="text-gray-600 text-sm">
+                         928 Robin Road<br />
+                         Hillsborough, NJ 08844<br />
+                         United States
+                       </p>
+                     </div>
                     <div>
                       <h4 className="font-medium text-gray-900 mb-2">Regional Office</h4>
                       <p className="text-gray-600 text-sm">
